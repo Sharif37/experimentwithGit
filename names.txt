@@ -3,5 +3,5 @@
 3. Charlie
 4. Sharif
 5. Omar 
-6. David
-7. Eve
+4. David
+5. Eve
